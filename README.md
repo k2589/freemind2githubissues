@@ -6,16 +6,16 @@ __Status: Proof of  concept__
 
 ## Требования
 
-MindMap в формате freemind (расширение *.mm) на основе шаблона `IssuesTemplate.mm`
+- MindMap в формате freemind (расширение *.mm) на основе шаблона `IssuesTemplate.mm`
 
-GitHub аккаунт, репозиторий в котором нужно создать issues, apikey (с доступом repo)
+- GitHub аккаунт, репозиторий в котором нужно создать issues, apikey (с доступом repo)
 
-OneScript 1.1 для использования .ospx (http://oscript.io)
+- OneScript 1.1 для использования .ospx (http://oscript.io)
 
-ИЛИ
+_ИЛИ_
 
-Windows: .Net 3.5 и старше для использования .exe  
-Linux/Mac: Mono 6.4 и старше для использования .exe
+- Windows: .Net 3.5 и старше для использования .exe  
+-  Linux/Mac: Mono 6.4 и старше для использования .exe
 
 ## Команды
 
